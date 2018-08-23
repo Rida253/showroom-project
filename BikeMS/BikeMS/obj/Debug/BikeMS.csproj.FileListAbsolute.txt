@@ -1,0 +1,16 @@
+c:\users\djtariq\documents\visual studio 2015\Projects\BikeMS\BikeMS\bin\Debug\BikeMS.exe.config
+c:\users\djtariq\documents\visual studio 2015\Projects\BikeMS\BikeMS\bin\Debug\BikeMS.exe
+c:\users\djtariq\documents\visual studio 2015\Projects\BikeMS\BikeMS\bin\Debug\BikeMS.pdb
+c:\users\djtariq\documents\visual studio 2015\Projects\BikeMS\BikeMS\obj\Debug\BikeMS.csprojResolveAssemblyReference.cache
+c:\users\djtariq\documents\visual studio 2015\Projects\BikeMS\BikeMS\obj\Debug\BikeMS.Form1.resources
+c:\users\djtariq\documents\visual studio 2015\Projects\BikeMS\BikeMS\obj\Debug\BikeMS.Form2.resources
+c:\users\djtariq\documents\visual studio 2015\Projects\BikeMS\BikeMS\obj\Debug\BikeMS.Properties.Resources.resources
+c:\users\djtariq\documents\visual studio 2015\Projects\BikeMS\BikeMS\obj\Debug\BikeMS.csproj.GenerateResource.Cache
+c:\users\djtariq\documents\visual studio 2015\Projects\BikeMS\BikeMS\obj\Debug\BikeMS.exe
+c:\users\djtariq\documents\visual studio 2015\Projects\BikeMS\BikeMS\obj\Debug\BikeMS.pdb
+c:\users\djtariq\documents\visual studio 2015\Projects\BikeMS\BikeMS\obj\Debug\BikeMS.Form3.resources
+c:\users\djtariq\documents\visual studio 2015\Projects\BikeMS\BikeMS\obj\Debug\BikeMS.Form4.resources
+c:\users\djtariq\documents\visual studio 2015\Projects\BikeMS\BikeMS\obj\Debug\BikeMS.Form5.resources
+c:\users\djtariq\documents\visual studio 2015\Projects\BikeMS\BikeMS\obj\Debug\BikeMS.Form6.resources
+c:\users\djtariq\documents\visual studio 2015\Projects\BikeMS\BikeMS\obj\Debug\BikeMS.Form7.resources
+c:\users\djtariq\documents\visual studio 2015\Projects\BikeMS\BikeMS\obj\Debug\BikeMS.Form8.resources
